@@ -1,1 +1,1 @@
-# Korean-High-Yield-Bond-Index
+한국형 하이일드 채권지수 개발과 활용방안에 관한 연구
